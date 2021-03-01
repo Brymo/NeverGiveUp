@@ -5,3 +5,8 @@ body{
 
     height: 100vh;
 }
+
+iframe{
+    width: 80vw;
+    height: calc(80vw/16 * 9);
+}
