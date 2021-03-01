@@ -8,5 +8,6 @@ body{
 
 iframe{
     width: 80vw;
+    max-height: 90vh;
     height: calc(80vw/16 * 9);
 }
